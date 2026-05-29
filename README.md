@@ -92,7 +92,7 @@ identifiers.
 
 ## Repository Structure
 
-```
+```text
 depression-t1dm-atbra-2025/
 │
 ├── README.md
@@ -218,9 +218,13 @@ over 15 years (mean 18.90) — F(2,245) = 11.67, p < 0.001
 
 - **Cross-sectional design:** Cannot establish whether depression preceded poor glycemic control or vice versa.
 - **Single-centre setting:** Results may not generalize to other Sudanese diabetes clinics.
-- **Self-reported glycemic control:** No HbA1c laboratory values were available; glycemic control status reflects patient perception.
-- **CVD quasi-separation:** The perfect association between CVD and depression (100%) caused unstable OR estimates in logistic regression; CVD effect was quantified through linear regression instead.
-- **Age range:** Participants as young as 7 years old were included, which may affect HDRS item interpretation in children.
+- **Self-reported glycemic control:** No HbA1c laboratory values were available;
+glycemic control status reflects patient perception.
+- **CVD quasi-separation:** The perfect association between CVD and depression
+(100%) caused unstable OR estimates in logistic regression; CVD effect was quantified
+through linear regression instead.
+- **Age range:** Participants as young as 7 years old were included, which may affect
+HDRS item interpretation in children.
 
 ## Files
 

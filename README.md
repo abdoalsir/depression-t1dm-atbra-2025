@@ -4,9 +4,9 @@
 
 **Study type:** Cross-sectional, hospital-based observational study
 
-**Degree level:** MD (Clinical Medical Doctorate — Family Medicine, Sudan Medical Specializations Board)
+**Degree level:** MD (Clinical Medical Doctorate — Family Medicine)
 
-**Institution:** Atbra Teaching Hospital, Aldamer, Nahr Al-Nil State
+**Institution:** Sudan Medical Specializations Board
 
 **Sample size:** N = 248 Type 1 diabetes patients
 

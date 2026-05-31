@@ -4,7 +4,7 @@
 
 **Study type:** Cross-sectional, hospital-based observational study
 
-**Degree level:** MD (Clinical Medical Doctorate — Family Medicine)
+**Degree level:** MD (Clinical Medical Doctorate - Family Medicine)
 
 **Institution:** Sudan Medical Specializations Board
 
@@ -97,6 +97,9 @@ depression-t1dm-atbra-2025/
 │
 ├── README.md
 ├── .gitignore
+├── .ls-lint.yml
+├── .markdownlint.yml
+├── .markdownlintignore
 │
 ├── 1_data/
 │   ├── raw/                        ← excluded from version control (privacy)
